@@ -1,4 +1,4 @@
-Movie Recommendation System with Streamlit Deployment
+# Movie Recommendation System with Streamlit Deployment
 This project implements a movie recommendation system using machine learning techniques and deploys it as a user-friendly web application.
 
 The model has been deployed as a user-friendly web application on Streamlit, accessible at https://movie-recommendation-jznjdabwtfpoepj6qurefy.streamlit.app/.
